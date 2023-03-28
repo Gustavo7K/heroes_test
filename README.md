@@ -1,3 +1,3 @@
 ## Heroes test #1
 
-Feito totalmente em Dart
+Feito totalmente em Dart.
